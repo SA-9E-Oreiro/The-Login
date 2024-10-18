@@ -1,0 +1,40 @@
+h1 {
+	color: #d0a676;
+  text-align: center;
+  background-color: ghostwhite;
+  border: solid;
+  border-color: #9d96e3;
+
+}
+
+h4 {
+  color: #d0a676;
+  text-align: center;
+  background-color: ghostwhite;
+  border: solid;
+  border-color: #9d96e3;
+
+}
+
+
+body {
+  background-image: url("hsr.jpeg");
+  background-size: 1600px;
+}
+
+
+.container{
+
+    color: #d0a676;
+    background-color: ghostwhite;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    border: 5px solid;
+    border-color: #9d96e3;
+    padding: 100px;
+    padding-left: 10px;
+    padding-right: 11px;
+    padding-top: 12px;
+    padding-bottom: 60px;
+}
